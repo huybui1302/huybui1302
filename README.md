@@ -1,0 +1,5 @@
+- Hi, my name's Huy.
+- I'm a downtrodden aerospace engineering graduate, who's learning Python to pivot his career into software dev.
+- I'm open to collaborate on beginner/intermediate level projects to learn more from all the beautiful minds out there <3
+- You can reach me at huy.130297@gmail.com
+- Cheers
